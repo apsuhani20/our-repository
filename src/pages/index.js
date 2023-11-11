@@ -33,7 +33,7 @@ export default function Home() {
           </a>
 
           <a
-            href='https://github.com/vedant29/Project-CSCI-1000'
+            href='https://github.com/GithubProject-Arielan-Suhani-Hyma/our-repository'
             className='card'>
             <h3>Project Resources&rarr;</h3>
             <p>
