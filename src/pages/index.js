@@ -35,6 +35,10 @@ export default function Home() {
             <h3>Arielan's About Me Page &rarr;</h3>
             <p>Click here to see Arielan's About Me Page</p>
           </a>
+          <a href='/SuhaniAgarwal' className='card'>
+            <h3>Suhani's About Me Page &rarr;</h3>
+            <p>Click here to see Suhani's About Me Page</p>
+          </a>
 
           <a
             href='https://github.com/GithubProject-Arielan-Suhani-Hyma/our-repository'
