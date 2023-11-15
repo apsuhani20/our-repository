@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
+            src='Hyma_Image.jpg'
             alt="Hyma's Picture"
           />
 
