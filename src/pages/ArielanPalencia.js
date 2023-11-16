@@ -15,10 +15,10 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hi my name is Arielan Palencia Li and I am a computer science major at the University of Colorado Boulder. 
+            Hi, my name is Arielan Palencia Li and I am a computer science major at the University of Colorado Boulder. 
             I am from Aurora, Colorado and my birthday is January 11th. I have many hobbies such as baking and arts and crafts like 
-            painting, making friendship bracelets, and drawing. I look forward to learning more about computer science 
-            during my time in college and hope to make lots of good friends and close relationships. 
+            painting, making friendship bracelets, and drawing. I enjoy traveling, and I love to try different cultures' foods.
+            I look forward to learning more about computer science during my time in college and hope to make lots of good friends and close relationships. 
           </p>
 
           <a className='button' href='/'>
