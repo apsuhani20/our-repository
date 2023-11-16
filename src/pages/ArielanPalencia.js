@@ -6,23 +6,19 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hi, this is Arielan</h1>
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            src='https://i.postimg.cc/FFd9B1vR/IMG-7130-2.jpg'
+            alt='Arielan Palencia Li'
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            Hi my name is Arielan Palencia Li and I am a computer science major at the University of Colorado Boulder. 
+            I am from Aurora, Colorado and my birthday is January 11th. I have many hobbies such as baking and arts and crafts like 
+            painting, making friendship bracelets, and drawing. I look forward to learning more about computer science 
+            during my time in college and hope to make lots of good friends and close relationships. 
           </p>
 
           <a className='button' href='/'>
