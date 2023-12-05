@@ -1,0 +1,5 @@
+character name|stamina|gold|candies
+Toffee_Todd|200|20|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet,Breezy Butterscotch,Crimson Crystal,Lucky Licorice,Toxic Taffy,Fearsome Fudge
+JellyBean_Jane|100|50|Frosty Fizz,Caramel Comet,Breezy Butterscotch,Lucky Licorice,Fearsome Fudge,Caramel Comet,Crimson Crystal,Toxic Taffy,Bubblegum Blast
+Chocolate_Charlie|50|100|Toxic Taffy,Frosty Fizz,Lucky Licorice,Caramel Comet,Breezy Butterscotch,Crismon Crystal,Lucky Licorice,Toxic Taffy,Fearsome Fudge
+Caramel_Carl|100|50|Toxic Taffy,Frosty Fizz,Breezy Butterscotch,Caramel Comet,Toxic Taffy,Fearsome Fudge,Lucky Licorice,Caramel Comet,Crimson Crystal;
